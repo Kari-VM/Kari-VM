@@ -1,4 +1,4 @@
-Hi, I’m Karishma. I’m interested in Finance and Data Analytics. I’m currently learning PostgreSQL and Bash.
+Hi, I’m Karishma. I’m interested in Finance and Data Analytics. I’m currently learning PostgreSQL, Bash scripting and MS PowerBI.
 You can connect with me on LinkedIn https://www.linkedin.com/in/karishma-v-m
 
 <!---
